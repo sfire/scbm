@@ -42,7 +42,7 @@
     - [x] 简介
     - [x] Eevee
     - [ ] Cycles
-        - [ ] 渲染设置 (Hoy)
+        - [x] 渲染设置
         - [ ] 剩余 (叶子大人)
     - [x] Workbench
     - [x] 相机
