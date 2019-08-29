@@ -41,9 +41,7 @@
 - [ ] 渲染
     - [x] 简介
     - [x] Eevee
-    - [ ] Cycles
-        - [x] 渲染设置
-        - [ ] 剩余 (叶子大人)
+    - [x] Cycles
     - [x] Workbench
     - [x] 相机
     - [x] 灯光
